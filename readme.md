@@ -1,8 +1,8 @@
 # Sentiment Classification with Convolutional Neural Networks
-## Research Paper
+## Research items
 
-[Sentiment Classification with Convolutional Neural Networks - Paper](https://www.researchgate.net/publication/341322592_Sentiment_Classification_with_Convolutional_Neural_Networks)
-[Sentiment Classification with Convolutional Neural Networks - Poster](https://www.researchgate.net/publication/341322681_Sentiment_Classification_with_Deep_Convolutional_Neural_Networks)
+* Paper: [Sentiment Classification with Convolutional Neural Networks](https://www.researchgate.net/publication/341322592_Sentiment_Classification_with_Convolutional_Neural_Networks)
+* Poster: [Sentiment Classification with Convolutional Neural Networks](https://www.researchgate.net/publication/341322681_Sentiment_Classification_with_Deep_Convolutional_Neural_Networks)
 _____________________________________________________________________
 ## Overview
 Sentiment Analysis of amazon product reviews with deep convolutional neural network.
